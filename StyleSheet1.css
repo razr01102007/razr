@@ -1,0 +1,23 @@
+﻿body {
+    text-align: center;
+    background-image: url('t.WEBP');
+}
+.a1 img 
+{
+    border-radius: 30%;
+    border: 5px solid aqua;
+    height: 100px;
+    width: 200px;
+}
+.a2 img 
+{
+    border-radius: 30%;
+    border: 10px solid black;
+    height: 100px;
+    width: 200px;
+}
+p
+{
+    color:aqua;
+    font-size:20px;
+}
